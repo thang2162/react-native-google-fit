@@ -1,6 +1,10 @@
 ### Getting started
 
-`$ npm install react-native-google-fit --save`
+`$ npm install @thang2162/react-native-google-fit --save`
+
+OR
+
+`$ yarn add @thang2162/react-native-google-fit`
 
 ### Enable Google Fitness API for your application
 
@@ -14,13 +18,13 @@ https://developers.google.com/fit/android/get-api-key
 
 ```
 1. In order for the library to work correctly, you'll need following SDK setups:
-   
+
    Android Support Repository
    Android Support Library
    Google Play services
    Google Repository
    Google Play APK Expansion Library
-   
+
 2. In order for your app to communicate properly with the Google Fitness API,
    you need to provide the SHA1 sum of the certificate used for signing your
    application to Google. This will enable the GoogleFit plugin to communicate

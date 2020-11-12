@@ -1,5 +1,5 @@
 {
-  "name": "react-native-google-fit",
+  "name": "@thang2162/react-native-google-fit",
   "version": "0.16.0",
   "description": "A React Native bridge module for interacting with Google Fit",
   "main": "index.android.js",
@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/StasDoskalenko/react-native-google-fit/issues"
+    "url": "https://github.com/thang2162/react-native-google-fit/issues"
   },
-  "homepage": "https://github.com/StasDoskalenko/react-native-google-fit#readme",
+  "homepage": "https://github.com/thang2162/react-native-google-fit#readme",
   "keywords": [
     "react-native",
     "google-fit",
@@ -26,7 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StasDoskalenko/react-native-google-fit.git"
+    "url": "git+https://github.com/thang2162/react-native-google-fit.git"
   },
   "dependencies": {
     "moment": "2.20.1"
